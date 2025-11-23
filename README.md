@@ -1,4 +1,6 @@
-<<<<<<< HEAD
+# Text-Metric-Pro
+A React-based text analyzer that gives detailed metrics like word count, character stats, sentences, paragraphs, most frequent word, and longest word. Designed with a clean interface, strong performance, and full responsiveness. Includes optional sentiment analysis and Docker support.
+
 # TextMetric Pro
 
 A professional-grade text analyzer tool built with React.js, featuring real-time metrics, frequency analysis, and offline sentiment insights.
@@ -65,7 +67,3 @@ Open [http://localhost:8080](http://localhost:8080) in your browser.
 - **tests**: Unit tests files (`*.test.ts`).
 - **Dockerfile**: Configuration for building the production image.
 - **nginx.conf**: Server configuration for SPA routing.
-=======
-# Text-Metric-Pro
-A React-based text analyzer that gives detailed metrics like word count, character stats, sentences, paragraphs, most frequent word, and longest word. Designed with a clean interface, strong performance, and full responsiveness. Includes optional sentiment analysis and Docker support.
->>>>>>> c94f72fc86c0f544aa8b07aee3b33f2495db0d81
